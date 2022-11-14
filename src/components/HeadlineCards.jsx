@@ -51,7 +51,7 @@ const HeadlineCards = () => {
         </div>
         <img
           className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
-          src="#############"
+          src="https://i.ibb.co/jRdBmPb/card-Threee.jpg"
           alt="/"
         />
       </div>
