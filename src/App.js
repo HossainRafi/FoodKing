@@ -9,10 +9,10 @@ function App() {
   return (
     <div>
       <Navbar />
-      <Hero />
+      {/* <Hero />
       <HeadlineCards />
       <Food />
-      <Category />
+      <Category /> */}
     </div>
   );
 }
