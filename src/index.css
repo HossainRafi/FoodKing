@@ -7,6 +7,3 @@
     @apply border border-black rounded-xl px-5 py-1
   }
 }
-::-webkit-scrollbar{
-  display: none;
-}

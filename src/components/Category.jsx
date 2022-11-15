@@ -9,7 +9,7 @@ const Category = () => {
         Top Rated Menu Items
       </h1>
       {/* Categories */}
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-6 py-6">
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-6 py-6 cursor-pointer">
         {categories.map((item, index) => (
           <div
             key={index}
