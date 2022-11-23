@@ -73,25 +73,25 @@ const Food = () => {
               onClick={() => filterPrice("09")}
               className="m-1 border-orange-600 text-orange-600 font-semibold hover:bg-orange-600 hover:text-white"
             >
-              $ 09
+              $09
             </button>
             <button
               onClick={() => filterPrice("19")}
               className="m-1 border-orange-600 text-orange-600 font-semibold hover:bg-orange-600 hover:text-white"
             >
-              $ 19
+              $19
             </button>
             <button
               onClick={() => filterPrice("29")}
               className="m-1 border-orange-600 text-orange-600 font-semibold hover:bg-orange-600 hover:text-white"
             >
-              $ 29
+              $29
             </button>
             <button
               onClick={() => filterPrice("39")}
               className="m-1 border-orange-600 text-orange-600 font-semibold hover:bg-orange-600 hover:text-white"
             >
-              $ 39
+              $39
             </button>
           </div>
         </div>
