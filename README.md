@@ -10,4 +10,3 @@
 
 ## Project Image:
 ![app image](https://i.ibb.co.com/4Zbpp5D/1.png)
-![app image](https://i.ibb.co.com/jHxrL8v/2.png)
